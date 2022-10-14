@@ -1,5 +1,6 @@
 ﻿namespace Nop.Plugin.Payments.Mpesa;
 
-public class Class1
+public class MpesaPaymentMethod
 {
+    
 }
