@@ -1,0 +1,11 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "Mpesa",
+  "SystemName": "Payments.Mpesa",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Eric Gitonga Njue",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Mpesa.dll",
+  "Description": "This plugin enables credit card payment (stored into database)"
+}
